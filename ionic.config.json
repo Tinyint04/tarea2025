@@ -1,0 +1,7 @@
+{
+  "name": "tareamoviles1App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
