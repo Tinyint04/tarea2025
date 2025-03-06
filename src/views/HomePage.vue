@@ -9,7 +9,7 @@
     <ion-content :fullscreen="true">
       <ion-header collapse="condense">
         <ion-toolbar>
-          <ion-title size="large">Tareas</ion-title>
+          <ion-title size="large">Tareas 1</ion-title>
         </ion-toolbar>
       </ion-header>
 
